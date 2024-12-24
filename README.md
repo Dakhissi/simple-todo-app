@@ -15,11 +15,11 @@ This project is a web application built using Django for the backend and React f
 
 1. Clone the repository:
     ```
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/Dakhissi/simple-todo-app
     ```
 2. Navigate to the project directory:
     ```
-    cd your-repo
+    cd app
     ```
 
 ### Backend Setup
